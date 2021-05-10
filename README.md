@@ -87,5 +87,6 @@ ALTER TABLE public."Workers"
 
 END;
 
+<hr>
 
 ![diagrammım](https://user-images.githubusercontent.com/71720425/117605549-a3eb0f80-b160-11eb-9012-cb6479fcd338.png)
